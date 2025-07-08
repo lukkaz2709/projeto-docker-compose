@@ -1,4 +1,4 @@
-# 🌐 Projeto Docker HTML com Apache
+/# 🌐 Projeto Docker HTML com Apache
 
 Este é um projeto simples e moderno de uma **landing page pessoal** desenvolvida com HTML, CSS e JavaScript, servida através de um **servidor Apache em container Docker** utilizando **Docker Compose**.
 
@@ -50,7 +50,7 @@ Docker
 Docker Compose
 
 📷 Preview
-![Preview do site](site01.png)
+![Previewsite](projeto-docker-compose/assets/site01.png)
 
 📌 Autor!
 Feito por Lucas Dutra.
