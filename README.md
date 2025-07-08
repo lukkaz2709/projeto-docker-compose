@@ -50,7 +50,8 @@ Docker
 Docker Compose
 
 📷 Preview
-![Preview do site](assets/site01.png)
+![Preview do site](html/assets/site01.png)
+
 
 
 
