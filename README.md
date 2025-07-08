@@ -53,7 +53,7 @@ Docker Compose
 
 📷 Preview
 
-![](site01.png)
+![](site01.jpg)
 
 📌 Autor!
 Feito por Lucas Dutra.
