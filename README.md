@@ -49,9 +49,6 @@ Apache HTTP Server
 Docker
 Docker Compose
 
-📷 Preview
-![Preview do site]([html/assets/site01.png](https://github.com/lukkaz2709/projeto-docker-compose/blob/main/html/assets/site01.png))
-
 📌 Autor!
 Feito por Lucas Dutra.
 
