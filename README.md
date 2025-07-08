@@ -38,6 +38,9 @@ cd "C:\Users\user\Downloads\Lucas\apache-html-app"
 docker compose up -d
 
 
+
+
+
 Abre no navegador:
 http://localhost:8080
 
@@ -53,7 +56,7 @@ Docker Compose
 
 📷 Preview
 
-[](site01.png)
+![](site01.png)
 
 📌 Autor!
 Feito por Lucas Dutra.
