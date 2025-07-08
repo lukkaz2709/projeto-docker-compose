@@ -50,7 +50,10 @@ Docker
 Docker Compose
 
 📷 Preview
-![Preview do site](site01.png)
+## 📷 Preview
+
+![Preview do site](assets/site01.png)
+
 
 📌 Autor!
 Feito por Lucas Dutra.
