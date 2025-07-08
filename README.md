@@ -45,19 +45,15 @@ http://localhost:8080
 
 🧠 Tecnologias Usadas
 HTML5
-
 CSS3
-
 JavaScript
-
 Apache HTTP Server
-
 Docker
-
 Docker Compose
 
 📷 Preview
 
+![](site01.png)
 
 📌 Autor!
 Feito por Lucas Dutra.
